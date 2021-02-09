@@ -14,7 +14,7 @@ This workshop has been accepted at the [32nd IEEE Intelligent Vehicles Symposium
 ## Contributions
 
 See [https://2021.ieee-iv.org/workshops/](https://2021.ieee-iv.org/workshops/) for details on the workshop paper submission.
-Please get in touch with the organizers in case of any questions.
+Please get in touch with the organizers in case you have any questions.
 
 ## Scope and Topics
 
