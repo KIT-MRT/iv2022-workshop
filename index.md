@@ -9,7 +9,7 @@ title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Ge
 excerpt: 'An upcoming IV2021 workshop'
 ---
 
-This workshop has been accepted at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), planned for July 11-15, 2021, in Nagoya, Japan.
+This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), planned for July 11-15, 2021, in Nagoya, Japan.
 
 ## Contributions
 
