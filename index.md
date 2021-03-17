@@ -13,7 +13,7 @@ This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)
 
 ## Contributions
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `w2cw1` for your submission. Submission deadline is March 29, 2021.
+Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `w2cw1` for your submission. Submission deadline is ~~March 29~~ April 30, 2021.
 See [https://2021.ieee-iv.org/workshops/](https://2021.ieee-iv.org/workshops/) for details on the workshop paper submission.
 Please get in touch with the organizers in case you have any further questions.
 
