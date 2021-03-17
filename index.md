@@ -39,3 +39,8 @@ The topics of interest of the workshop include, but are not limited to,
 ## Past Editions
 
 At IV2020, the organizers hosted a previous edition of this workshop: [https://sites.google.com/berkeley.edu/iv20-interaction](https://sites.google.com/berkeley.edu/iv20-interaction).
+
+## Acknowledgments
+
+The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/).
+
