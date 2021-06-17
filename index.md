@@ -9,26 +9,27 @@ title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Ge
 excerpt: 'An upcoming IV2021 workshop'
 ---
 
-This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), planned for July 11-15, 2021, in Nagoya, Japan.
+This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), on July 11/12, 2021, ~~in Nagoya, Japan~~ virtually.
 
-## Contributions
+## Agenda
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `w2cw1` for your submission. Submission deadline is ~~March 29~~ April 30, 2021.
-See [https://2021.ieee-iv.org/workshops/](https://2021.ieee-iv.org/workshops/) for details on the workshop paper submission.
-Please get in touch with the organizers in case you have any further questions.
-
-## Scope and Topics
-
-The topics of interest of the workshop include, but are not limited to,
-- Cooperative and comprehensible motion planning
-- Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs)
-- Probabilistic behavior prediction (with help of semantic high definition maps)
-- Evaluation and benchmarking for probabilistic prediction
-- Evaluation and benchmarking for comprehensible motion planning
+| Time (JST)   | Time (CEST)   | Time (PDT)    | Talk                                                                                                                            |
+| ------------ | ------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 12.7.21 0:00 | 11.7.21 17:00 | 11.7.21 8:00  | Introduction (workshop organizers)                                                                                              |
+| 12.7.21 0:15 | 11.7.21 17:15 | 11.7.21 8:15  | *Talk:* Instance Discrimination for Unsupervised Grouping of Driving Data (Sascha Hornauer, MINES ParisTech)                      |
+| 12.7.21 1:00 | 11.7.21 18:00 | 11.7.21 9:00  | *coffee break*                                                                                                                    |
+| 12.7.21 1:15 | 11.7.21 18:15 | 11.7.21 9:15  | *Paper presentation:* Quantitative Evaluation of Autonomous Driving in CARLA                                                      |
+| 12.7.21 1:30 | 11.7.21 18:30 | 11.7.21 9:30  | *Paper presentation:* POMDP Planning at Roundabouts                                                                               |
+| 12.7.21 1:45 | 11.7.21 18:45 | 11.7.21 9:45  | *Talk:* Introduction to BARK (Patrick Hart, fortiss & TUM)                                                                                  |
+| 12.7.21 2:15 | 11.7.21 19:15 | 11.7.21 10:15 | *Talk:* Multi-Agent Relational Reasoning for Autonomous Driving (Jiachen Li, UC Berkeley)                                         |
+| 12.7.21 3:00 | 11.7.21 20:00 | 11.7.21 11:00 | *coffee break*                                                                                                                    |
+| 12.7.21 3:15 | 11.7.21 20:15 | 11.7.21 11:15 | *Paper presentation:* Probabilistic VRU Trajectory Forecasting for Model-Predictive Planning -- a Case Study: Overtaking Cyclists |
+| 12.7.21 3:30 | 11.7.21 20:30 | 11.7.21 11:30 | *Talk:* Benefits and challenges of next generation datasets (Carlos Fernandez, KIT)                                               |
+| 12.7.21 4:15 | 11.7.21 21:15 | 11.7.21 12:15 | Closing Remarks (workshop organizers)                                                                                           |
 
 ## Organizers
 
-- **Dr. Maximilian Naumann**, Karlsruhe Institute of Technology (KIT)
+- **Dr. Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
 - **Jiachen Li**, University of California at Berkeley
 - **Dr. Liting Sun**, University of California at Berkeley
 - **Dr. Wei Zhan**, University of California at Berkeley
@@ -43,4 +44,3 @@ At IV2020, the organizers hosted a previous edition of this workshop: [https://s
 ## Acknowledgments
 
 The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program [SPP 1835 - Cooperative Interacting Automobiles](https://www.coincar.de/).
-
