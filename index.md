@@ -33,15 +33,15 @@ Hold jointly with the organizers of the planned ITSC 2021 workshop "Probabilisti
 
 ## Organizers
 
-- **Dr. Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
+- **Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
 - **Jiachen Li**, University of California at Berkeley
 - **Eike Rehder**, Mercedes-Benz AG
-- **Dr. Martin Lauer**, Karlsruhe Institute of Technology (KIT)
-- **Dr. Liting Sun**, University of California at Berkeley
-- **Dr. Wei Zhan**, University of California at Berkeley
-- **Prof. Masayoshi Tomizuka**, University of California at Berkeley
-- **Prof. Arnaud de La Fortelle**, MINES ParisTech
-- **Prof. Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
+- **Martin Lauer**, Karlsruhe Institute of Technology (KIT)
+- **Liting Sun**, University of California at Berkeley
+- **Wei Zhan**, University of California at Berkeley
+- **Masayoshi Tomizuka**, University of California at Berkeley
+- **Arnaud de La Fortelle**, MINES ParisTech
+- **Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
 
 ## Past Editions
 
