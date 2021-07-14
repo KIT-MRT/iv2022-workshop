@@ -23,11 +23,11 @@ Hold jointly with the organizers of the planned ITSC 2021 workshop "Probabilisti
 | 12.7.21 0:15 | 11.7.21 17:15 | 11.7.21 8:15  | *Talk:* Instance Discrimination for Unsupervised Grouping of Driving Data (Sascha Hornauer, MINES ParisTech)                      |
 | 12.7.21 1:00 | 11.7.21 18:00 | 11.7.21 9:00  | *coffee break*                                                                                                                    |
 | 12.7.21 1:15 | 11.7.21 18:15 | 11.7.21 9:15  | *Paper presentation:* Quantitative Evaluation of Autonomous Driving in CARLA                                                      |
-| 12.7.21 1:30 | 11.7.21 18:30 | 11.7.21 9:30  | *Paper presentation:* POMDP Planning at Roundabouts                                                                               |
-| 12.7.21 1:45 | 11.7.21 18:45 | 11.7.21 9:45  | *Talk:* Introduction to BARK (Patrick Hart, fortiss & TUM)                                                                                  |
+| 12.7.21 1:30 | 11.7.21 18:30 | 11.7.21 9:30  | *Paper presentation:* POMDP Planning at Roundabouts ([slides](assets/slides/bey_pomdp.pdf))                                                                              |
+| 12.7.21 1:45 | 11.7.21 18:45 | 11.7.21 9:45  | *Talk:* Introduction to BARK (Patrick Hart, fortiss & TUM) ([slides](assets/slides/bark.pdf))                                                                                 |
 | 12.7.21 2:15 | 11.7.21 19:15 | 11.7.21 10:15 | *Talk:* Multi-Agent Relational Reasoning for Autonomous Driving (Jiachen Li, UC Berkeley)                                         |
 | 12.7.21 3:00 | 11.7.21 20:00 | 11.7.21 11:00 | *coffee break*                                                                                                                    |
-| 12.7.21 3:15 | 11.7.21 20:15 | 11.7.21 11:15 | *Paper presentation:* Probabilistic VRU Trajectory Forecasting for Model-Predictive Planning -- a Case Study: Overtaking Cyclists |
+| 12.7.21 3:15 | 11.7.21 20:15 | 11.7.21 11:15 | *Paper presentation:* Probabilistic VRU Trajectory Forecasting for Model-Predictive Planning -- a Case Study: Overtaking Cyclists ([slides](assets/slides/schneegans_forecasting.pdf)) |
 | 12.7.21 3:30 | 11.7.21 20:30 | 11.7.21 11:30 | *Talk:* Benefits and challenges of next generation datasets (Carlos Fernandez, KIT)                                               |
 | 12.7.21 4:15 | 11.7.21 21:15 | 11.7.21 12:15 | Closing Remarks (workshop organizers)                                                                                           |
 
