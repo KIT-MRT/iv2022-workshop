@@ -6,10 +6,10 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Generation in Autonomous Driving'
-excerpt: 'An upcoming IV2021 workshop: [ZOOM Workshop Link](https://zoom.us/j/94470083661?pwd=b1Vjd2Q2TWliNjR4SjI0R2ZDblRiQT09)'
+excerpt: 'An IV2021 workshop: [ZOOM Workshop Link](https://zoom.us/j/94470083661?pwd=b1Vjd2Q2TWliNjR4SjI0R2ZDblRiQT09)'
 ---
 
-This workshop will be held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), on July 11/12, 2021, ~~in Nagoya, Japan~~ virtually.
+This workshop was held at the [32nd IEEE Intelligent Vehicles Symposium (IV)](https://2021.ieee-iv.org/), on July 11/12, 2021, ~~in Nagoya, Japan~~ virtually.
 
 Hold jointly with the organizers of the planned ITSC 2021 workshop "Probabilistic Prediction and Comprehensible Motion Planning for Automated Vehicles – Approaches and Benchmarking", which is cancelled in favor of this workshop.
 
