@@ -9,7 +9,7 @@ title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Ge
 excerpt: 'An IV2022 workshop.'
 ---
 
-This workshop will be held at the [33nd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), in June 2022, in Aachen, Germany.
+This workshop will be held at the [33rd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), in June 2022, in Aachen, Germany.
 
 ## Agenda
 
