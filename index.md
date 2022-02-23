@@ -57,7 +57,7 @@ tba
 
 ## Organizers
 
-- **Sascha Hornauer**, MINES ParisTech
+- **Sascha Hornauer**, MINES ParisTech. Email: [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr)
 - **Maximilian Naumann**, Bosch Center for Artificial Intelligence (BCAI)
 - **Eike Rehder**, Mercedes-Benz AG
 - **Jiachen Li**, Stanford University
