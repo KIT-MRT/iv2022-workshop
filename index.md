@@ -45,7 +45,7 @@ Authors are encouraged to submit original work, not previously published or acce
 Please check the conference webpage for the details of submission guidelines - see [https://iv2022.com/program/workshops](https://iv2022.com/program/workshops)
 
 
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `wh622` for your submission. Submission deadline is March 8th, 2022.
+Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `wh622` for your submission. Submission deadline is March 15th, 2022.
 See [https://iv2022.com/program/workshops](https://iv2022.com/program/workshops) for details on the workshop paper submission and [https://iv2022.com/program/your-contribution](https://iv2022.com/program/your-contribution) for a template.
 
 
