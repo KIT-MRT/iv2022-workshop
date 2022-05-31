@@ -53,7 +53,21 @@ Please get in touch with the organizers in case you have any further questions.
 
 ## Agenda
 
-tba
+| Time PDT | Time CEST | Speaker              | Affiliation                              | Talk Title                                                                                                     |
+|----------|-----------|----------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| 04:00:00 | 13:00:00  | **Opening Ceremony** |                                          |                                                                                                                |
+| 04:10:00 | 13:10:00  | Joseph Gesnouin      | MINES ParisTech/VEDECOM                  | Assessing Cross-dataset Generalization of Pedestrian Crossing Predictors                                       |
+| 04:30:00 | 13:30:00  | Hannes Weinreuter    | Karlsruher Institut für Technologie: KIT | Cooperation behavior and complexity at inner city intersections                                                |
+| 04:50:00 | 13:50:00  | Christoph Burger     | Karlsruher Institut für Technologie: KIT | Interaction aware trajectory optimization using multi-agent models                                             |
+| 05:10:00 | 14:10:00  | Julian Schmidt       | Mercedes-Benz AG/University of Ulm       | Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention   |
+| 05:30:00 | 14:30:00  | Linda Miller         | University of Ulm                        | How should automated vehicles behave? On social driving behavior and drivers' interpretation of vehicle motion |
+| 05:50:00 | 14:50:00  |                      |                                          | **Coffee Break**                                                                                               |
+| 06:10:00 | 15:10:00  | Max Mertens          | University of Ulm                        | Probabilistic Prediction and Maneuver Planning for Connected and Legacy Vehicles at Unsignalized Intersections |
+| 06:30:00 | 15:30:00  | Faris Janjos         | Bosch                                    | SAN: Scene Anchor Networks for Joint Action-Space Prediction                                                   |
+| 06:50:00 | 15:50:00  | Steffen Busch        | University of Hannover                   | LUMPI: The Leibniz University Multi-Perspective Intersection Dataset                                           |
+| 07:10:00 | 16:10:00  | Topan Sever          | McGill University/NVIDIA                 | Interaction-Dynamics-Aware Perception Zones for Obstacle Detection Safety Evaluation                           |
+| 07:30:00 | 16:30:00  | Karen Leung          | NVIDIA/University of Washington          | Towards Data-Driven Safety Synthesis for Safe AV Interactions                                                  |
+| 07:50:00 | 16:50:00  | **Closing Ceremony** |                                          |                                                                                                                |
 
 ## Organizers
 
