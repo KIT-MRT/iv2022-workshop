@@ -11,6 +11,8 @@ excerpt: 'An IV2022 workshop.'
 
 This workshop will be held at the [33rd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), on June 5th, 2022, in Aachen, Germany in the afternoon. 
 
+Location: Conference Room 2, Sunday 13:00h CEST
+
 ## Scope and Topics
 
 Research on Automated Vehicles enabled safe prototypes, driving in public traffic. However, safety comes at the price of overly conservative inconvenient behavior, e.g. in unprotected left turns or merging scenarios. Reasons can include prediction errors in **vehicle interactions** or lack of probabilistic considerations in motion planning. While it must be ensured that safe and possibly uncomfortable reactions to worst-case behaviors of others remain feasible, the intended reaction should be comfortable. 
