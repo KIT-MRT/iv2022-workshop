@@ -11,7 +11,7 @@ excerpt: 'An IV2022 workshop.'
 
 This workshop will be held at the [33rd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), on June 5th, 2022, in Aachen, Germany in the afternoon. 
 
-Location: Conference Room 2, Sunday 13:00h CEST
+Location: Eurogress, Conference Room 2, Sunday 13:00h CEST
 
 ## Scope and Topics
 
