@@ -9,9 +9,7 @@ title: 'From Benchmarking Behavior Prediction to Socially Compatible Behavior Ge
 excerpt: 'An IV2022 workshop.'
 ---
 
-# Call for Workshop Papers
-
-This workshop will be held at the [33rd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), on June 5th, 2022, in Aachen, Germany. We call for contribution of novel, unpublished ideas and will invite presentation of accepted peer-reviewed papers. Please find details on submission, scope and topics below and check this page regularly for updates.
+This workshop will be held at the [33rd IEEE Intelligent Vehicles Symposium (IV)](https://iv2022.com), on June 5th, 2022, in Aachen, Germany in the afternoon. 
 
 ## Scope and Topics
 
@@ -26,30 +24,6 @@ Similarly, motion planning in highly interactive scenarios lacks one single “g
 
 The organizers support research with the published INTERACTION dataset [https://interaction-dataset.com/](https://interaction-dataset.com/) of trajectory data from highly interactive traffic scenarios on high-definition maps but all contributions within the scope of the workshop are welcome, with or without use of the dataset.
 
-## Topics of Interest
-The topics of interest of the workshop include, but are not limited to:
-
-- **Cooperative and comprehensible motion planning**
-- **Probabilistic decision making and motion planning (including MDPs, POMDPs, MMDPs)**
-- **Probabilistic behavior prediction (with help of semantic high-definition maps)**
-- **Evaluation and benchmarking for probabilistic prediction**
-- **Evaluation and benchmarking for comprehensible motion planning**
-
-## Contributions
-
-
-Papers should not exceed 6 pages and fulfill the requirements stated in the IEEE IV 2022 Guidelines. Each paper will undergo a peer-reviewing process by three independent reviewers. Contributions will be reviewed according to relevance, originality, novelty, technical soundness and quality of presentation.
-
-Authors are encouraged to submit original work, not previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journals, conferences or workshops. For publication, at least one author needs to be registered for the workshop and the conference and present their work.
-
-Please check the conference webpage for the details of submission guidelines - see [https://iv2022.com/program/workshops](https://iv2022.com/program/workshops)
-
-
-Submissions are welcome via [papercept](https://its.papercept.net/). Please use our workshop code `wh622` for your submission. Submission deadline is March 15th, 2022.
-See [https://iv2022.com/program/workshops](https://iv2022.com/program/workshops) for details on the workshop paper submission and [https://iv2022.com/program/your-contribution](https://iv2022.com/program/your-contribution) for a template.
-
-
-Please get in touch with the organizers in case you have any further questions.
 
 ## Agenda
 
@@ -80,6 +54,9 @@ Please get in touch with the organizers in case you have any further questions.
 - **Masayoshi Tomizuka**, University of California at Berkeley
 - **Arnaud de La Fortelle**, MINES ParisTech
 - **Christoph Stiller**, Karlsruhe Institute of Technology (KIT)
+
+
+Please get in touch with the organizers in case you have any further questions.
 
 ## Past Editions
 
